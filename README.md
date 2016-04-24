@@ -2,7 +2,7 @@
 PHP framework for beginners
 
 
-![logo](http://gdurl.com/)
+![logo](http://gdurl.com/3yg5)
 PHP framework for beginners.
 
 ## Installation
